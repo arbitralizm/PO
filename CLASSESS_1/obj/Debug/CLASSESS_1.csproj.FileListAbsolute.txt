@@ -1,0 +1,7 @@
+C:\Users\SINNER\OneDrive\Pulpit\CLASSESS_1\bin\Debug\CLASSESS_1.exe.config
+C:\Users\SINNER\OneDrive\Pulpit\CLASSESS_1\bin\Debug\CLASSESS_1.exe
+C:\Users\SINNER\OneDrive\Pulpit\CLASSESS_1\bin\Debug\CLASSESS_1.pdb
+C:\Users\SINNER\OneDrive\Pulpit\CLASSESS_1\obj\Debug\CLASSESS_1.csproj.AssemblyReference.cache
+C:\Users\SINNER\OneDrive\Pulpit\CLASSESS_1\obj\Debug\CLASSESS_1.csproj.CoreCompileInputs.cache
+C:\Users\SINNER\OneDrive\Pulpit\CLASSESS_1\obj\Debug\CLASSESS_1.exe
+C:\Users\SINNER\OneDrive\Pulpit\CLASSESS_1\obj\Debug\CLASSESS_1.pdb
