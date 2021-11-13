@@ -1,0 +1,7 @@
+C:\Users\SINNER\OneDrive\Pulpit\Kolokwium_1\bin\Debug\Kolokwium_1.exe.config
+C:\Users\SINNER\OneDrive\Pulpit\Kolokwium_1\bin\Debug\Kolokwium_1.exe
+C:\Users\SINNER\OneDrive\Pulpit\Kolokwium_1\bin\Debug\Kolokwium_1.pdb
+C:\Users\SINNER\OneDrive\Pulpit\Kolokwium_1\obj\Debug\Kolokwium_1.csproj.AssemblyReference.cache
+C:\Users\SINNER\OneDrive\Pulpit\Kolokwium_1\obj\Debug\Kolokwium_1.csproj.CoreCompileInputs.cache
+C:\Users\SINNER\OneDrive\Pulpit\Kolokwium_1\obj\Debug\Kolokwium_1.exe
+C:\Users\SINNER\OneDrive\Pulpit\Kolokwium_1\obj\Debug\Kolokwium_1.pdb
